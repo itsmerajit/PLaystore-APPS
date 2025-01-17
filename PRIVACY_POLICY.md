@@ -57,11 +57,12 @@ This app is safe for children because:
 
 ## 7. 📞 Contact Us
 If you have questions about your privacy:
-- Email: [Your Contact Email]
-- Website: [Your Website]
+- Email: Rajit.saha12@gmail.com
+- Phone -8296994204
+
 
 ## 8. 🔄 Updates
 - We'll update this policy if we make changes
 - Check back here for updates
 
-Last Updated: [Current Date] 
+Last Updated: [18-01-2025] 
