@@ -76,5 +76,5 @@ This app is safe for children because:
 - Compliant with Android platform guidelines
 
 Version: 1.0
-Last Updated: [Current Date]
-Play Store Version: [Your App Version] 
+Last Updated: [18-01-2025]
+Play Store Version: [1.0] 
