@@ -63,7 +63,7 @@ This app is safe for children because:
 - No third-party advertising
 
 ## 7. 📞 Contact & Support
-- Email: [Your Contact Email]
+- Email: Rajit.saha12@gmail.com
 - Website: 
 - Play Store:
 - Phone - 8296994204
