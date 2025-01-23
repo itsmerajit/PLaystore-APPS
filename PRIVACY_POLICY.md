@@ -66,7 +66,7 @@ This app is safe for children because:
 - Email: Rajit.saha12@gmail.com
 - Website: 
 - Play Store:
-- Phone - 8296994204
+- Phone - 
  
 
 ## 8. 🔄 Updates & Compliance
